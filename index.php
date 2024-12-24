@@ -1,6 +1,4 @@
-<?php
-// Arthrogenix Article with Styling
-?>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
